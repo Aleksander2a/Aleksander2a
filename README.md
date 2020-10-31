@@ -1,9 +1,9 @@
 ### Aleksander Mazur 👋
 
--19 y.o.
--Dębica, Poland⬜🟥
--⏳AGH University of Science🎓
--Love football⚽
+- 19 y.o.
+- Dębica, Poland⬜🟥
+- ⏳AGH University of Science🎓
+- Love football⚽
 
 
 <!--
