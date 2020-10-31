@@ -2,7 +2,7 @@
 
 - 19 y.o.
 - Dębica, Poland⬜🟥
-- ⏳AGH University of Science🎓
+- ⏳AGH University of Science and Technology🎓
 - Love football⚽
 
 
