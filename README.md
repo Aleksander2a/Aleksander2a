@@ -1,4 +1,10 @@
-### Hi there 👋
+### Aleksander Mazur 👋
+
+-19 y.o.
+-Dębica, Poland⬜🟥
+-⏳AGH University of Science🎓
+-Love football⚽
+
 
 <!--
 **Aleksander2a/Aleksander2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
