@@ -5,7 +5,7 @@
 - ⏳AGH University of Science and Technology🎓
 - Love football⚽
 
-Check out my [webpage](https://aleksander2a.github.io/)
+Check out my webpage [here](https://aleksander2a.github.io/)
 
 
 <!--
