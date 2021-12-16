@@ -5,7 +5,7 @@
 - ⏳AGH University of Science and Technology🎓
 - Love football⚽
 
-Check out my webpage [here](https://aleksander2a.github.io/)
+<!-- Check out my webpage [here](https://aleksander2a.github.io/)
 
 <!--
 **Aleksander2a/Aleksander2a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
