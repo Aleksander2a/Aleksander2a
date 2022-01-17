@@ -1,6 +1,6 @@
 ### Aleksander Mazur 👋
 
-- 20 y.o.
+- 21 y.o.
 - Dębica, Poland⬜🟥
 - ⏳AGH University of Science and Technology🎓
 - Love football⚽
