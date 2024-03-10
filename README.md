@@ -1,9 +1,9 @@
 ### Aleksander Mazur 👋
 
-- 22 y.o.
-- Dębica, Poland⬜🟥
-- ⏳AGH University of Science and Technology🎓
-- Love football⚽
+- Poland⬜🟥
+- 🎓 Bachelor's degree @ AGH University of Science and Technology
+<!-- - ⏳🎓 Master's degree @ Warsaw University of Technology -->
+- Passionate about AI and Web3
 
 <!-- Check out my webpage [here](https://aleksander2a.github.io/)
 
