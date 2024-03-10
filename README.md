@@ -2,8 +2,8 @@
 
 - Poland⬜🟥
 - 🎓 Bachelor's degree @ AGH University of Science and Technology
-<!-- - ⏳🎓 Master's degree @ Warsaw University of Technology -->
 - Passionate about AI and Web3
+<!-- - ⏳🎓 Master's degree @ Warsaw University of Technology -->
 
 <!-- Check out my webpage [here](https://aleksander2a.github.io/)
 
